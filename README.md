@@ -1,6 +1,6 @@
-# About Me 💖
+# About Me 
 
-Hi! I’m **Daria**, a passionate 14-year-old coder from Ukraine. 🌻  
+Hi! I’m **Daria**, a passionate 14-year-old coder from Ukraine.  
 I love learning **Python**, creating small projects, and improving my programming skills every day.  
 
  🔹 Currently exploring Python projects like **Mood Journal**  
@@ -10,4 +10,4 @@ I love learning **Python**, creating small projects, and improving my programmin
 I enjoy **making simple tools that can make daily life more fun** and sharing them with the world.  
 Always eager to **learn new things, experiment, and grow** as a developer! 🚀  
 
-Feel free to connect, fork my projects, or give feedback! 💌
+Feel free to connect, fork my projects, or give feedback! 
